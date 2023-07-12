@@ -1,0 +1,12 @@
+.weather__container{
+    margin:40px 15px;
+    width: 60%;
+}
+.weather__container--temperature p{
+    font-size: 14px;
+}
+.weather__container--temperature span{
+    font-weight: bold;
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
